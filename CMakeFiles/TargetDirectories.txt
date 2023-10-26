@@ -1,0 +1,3 @@
+/home/lmeng/Emer_Handheld/CMakeFiles/rebuild_cache.dir
+/home/lmeng/Emer_Handheld/CMakeFiles/edit_cache.dir
+/home/lmeng/Emer_Handheld/CMakeFiles/Emer_Handheld.dir
